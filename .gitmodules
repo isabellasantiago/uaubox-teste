@@ -1,0 +1,3 @@
+[submodule "uaubox-web"]
+	path = uaubox-web
+	url = git@github.com:isabellasantiago/uaubox-web.git
